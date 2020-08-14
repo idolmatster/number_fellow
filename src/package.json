@@ -1,0 +1,15 @@
+{
+    "name": "numberfellow",
+    "version": "1.0.0",
+    "description": "discord bot for handling n-hentai numbers",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "idolmatster",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "nhentai-api": "^3.0.2"
+    }
+}
